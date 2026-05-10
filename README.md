@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- HEADER: Typing SVG (very reliable) -->
+<!-- HEADER: Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Gautam+Singh+%F0%9F%91%8B;B.Tech+CSE+%40+JNCT+Rewa+%F0%9F%8E%93;Developer+%7C+Data+Scientist+%7C+ML+Learner;Building+AI-powered+Systems+%F0%9F%A4%96;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Gautam+Singh+%F0%9F%91%8B;B.Tech+CSE+Student+%F0%9F%8E%93;Developer+%7C+Data+Scientist+%7C+ML+Learner;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -19,14 +19,11 @@
 
 ```python
 class GautamSingh:
-    name       = "Gautam Singh"
-    college    = "JNCT Rewa (RGPV)"
     roles      = ["Developer", "ML Learner",
                   "Data Science Enthusiast"]
     languages  = ["Python", "C++", "JS", "SQL"]
     interests  = ["Machine Learning", "DSA",
                   "Data Science", "Web Dev"]
-    project    = "AI Invoice Audit System 🧾"
     fun_fact   = "Coffee → Code → Debug → Repeat ☕"
 ```
 
@@ -77,50 +74,10 @@ class GautamSingh:
 
 ## 📊 GitHub Stats
 
-> 📌 *All stats pull **live** from GitHub — contributions, streak, and languages update with every commit you push.*
-
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gautamsengar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamsengar&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamsengar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=gautamsengar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
-
----
-
-## 📅 Contribution Activity
-
-> ⚡ *Updates live — every commit, PR, and issue you make appears here automatically.*
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gautamsengar&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🔥 Featured Project
-
-<div align="center">
-
-| 🧾 Intelligent Invoice Cost Leakage Detection & Audit Risk Management System |
-|:---|
-| An AI-powered system that detects cost anomalies and flags audit risks in invoice data using Machine Learning. Built as a Minor Project under **RGPV** at **JNCT Rewa**. |
 
 </div>
 
