@@ -51,6 +51,8 @@ class GautamSingh:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🌐 Web Development
@@ -59,6 +61,12 @@ class GautamSingh:
 
 ### 🤖 Data Science & ML
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-00C7B7?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -72,7 +80,14 @@ class GautamSingh:
 
 ---
 
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gautamsengar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamsengar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+</div>
 
 ---
 
@@ -90,7 +105,7 @@ class GautamSingh:
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."   ║
+║  "First, solve the problem. Then, write the code."  ║
 ║                          — John Johnson              ║
 ║                                                      ║
 ║      ⭐ Star repos you find useful — it matters!     ║
