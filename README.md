@@ -97,7 +97,7 @@ class GautamSingh:
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."  ║
+║  "First, solve the problem. Then, write the code."   ║
 ║                          — John Johnson              ║
 ║                                                      ║
 ║      ⭐ Star repos you find useful — it matters!     ║
